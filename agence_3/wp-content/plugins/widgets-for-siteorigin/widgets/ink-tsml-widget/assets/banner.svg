@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="125px" height="125px" viewBox="0 0 125 125" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>testimonial</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-5" transform="translate(-869.000000, -416.000000)">
+            <g id="testimonial" transform="translate(869.000000, 416.000000)">
+                <rect id="Rectangle-16" fill="#313840" x="0" y="0" width="125" height="125"></rect>
+                <polygon id="Star" fill="#3EB0F7" points="36.0839804 67.75 31.0878057 70.3766445 32.0419902 64.8133222 28 60.8733555 33.5858931 60.0616778 36.0839804 55 38.5820677 60.0616778 44.1679608 60.8733555 40.1259706 64.8133222 41.080155 70.3766445"></polygon>
+                <polygon id="Star-Copy" fill="#3EB0F7" points="62.0839804 67.75 57.0878057 70.3766445 58.0419902 64.8133222 54 60.8733555 59.5858931 60.0616778 62.0839804 55 64.5820677 60.0616778 70.1679608 60.8733555 66.1259706 64.8133222 67.080155 70.3766445"></polygon>
+                <polygon id="Star-Copy-2" fill="#3EB0F7" points="88.0839804 67.75 83.0878057 70.3766445 84.0419902 64.8133222 80 60.8733555 85.5858931 60.0616778 88.0839804 55 90.5820677 60.0616778 96.1679608 60.8733555 92.1259706 64.8133222 93.080155 70.3766445"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

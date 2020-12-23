@@ -1,0 +1,13 @@
+/*
+Theme Name: Agence
+Version: 1.1
+*/
+
+.menu {
+    position: fixed;
+    top: 0px;
+}
+
+.admin-bar .menu {
+	top: 32px; /* on prend en compte le décalage */
+}
