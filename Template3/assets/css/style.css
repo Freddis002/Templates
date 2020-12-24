@@ -714,7 +714,7 @@ p {
     position: relative;
     top: -5px; }
 
-@media only screen and (min-width: 768px) and (max-width: 991px) {
+@media only screen and (min-width: 575px) and (max-width: 991px) {
   .navbar-btn {
     position: absolute;
     top: 50%;
@@ -725,7 +725,7 @@ p {
     -o-transform: translateY(-50%);
     transform: translateY(-50%); } }
 
-@media (max-width: 767px) {
+@media (max-width: 576px) {
   .navbar-btn {
     position: absolute;
     top: 50%;
